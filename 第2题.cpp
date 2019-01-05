@@ -10,7 +10,6 @@ A fun(A x)
 	return x*x+(x<0?-1:x>=1?1:0);
 }
 
-
 int main()
 {
 	double x;
