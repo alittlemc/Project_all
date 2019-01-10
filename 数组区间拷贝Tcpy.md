@@ -11,7 +11,7 @@ void Tcpy(A *a1,B *a2,size_t s1,size_t s2,size_t e)
 ```
 
 >调用方法
-	> Tcpy()//不能用于const
+>> Tcpy()//不能用于const
 
 ***
 * 区间拷贝:附带 强制转换
@@ -25,4 +25,4 @@ void Tcpy(A *a1,B *a2,size_t s1,size_t s2,size_t e,C var_a1)
 ```
 	
 >调用方法
-	> Tcpy<typename>()//不能用于const
+>> Tcpy<typename>()//不能用于const
