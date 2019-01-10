@@ -1,6 +1,6 @@
 # 区间拷贝<span style="color: red">Tcpy</span>(原创)
 ***
->* 不含强制转换
+* 不含强制转换
 
  ``` C++
 template<class A,class B>
